@@ -13,7 +13,7 @@ def find_max_value(list_of_int):
     max_number = -1
     counter = 0
 
-    # FOR loop to determine the max number
+    # For loop to determine the max number
     for counter in range(10):
         current_number = list_of_int[counter]
         if current_number > max_number:
